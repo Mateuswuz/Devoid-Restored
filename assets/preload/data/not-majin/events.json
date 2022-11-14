@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				85935.4838709678,
+				[
+					[
+						"Change Character",
+						"bf",
+						"blackbf"
+					]
+				]
+			],
+			[
+				86322.5806451614,
+				[
+					[
+						"Change Character",
+						"dad",
+						"devoid-mad"
+					]
+				]
+			],
+			[
+				87096.7741935485,
+				[
+					[
+						"Change Character",
+						"blackbf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
