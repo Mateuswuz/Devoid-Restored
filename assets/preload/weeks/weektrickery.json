@@ -1,0 +1,32 @@
+{
+	"storyName": "wea",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "forestbun",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekempty",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"trickery",
+			"devoid",
+			[
+				12,
+				0,
+				131
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "lolol",
+	"hiddenUntilUnlocked": false
+}
