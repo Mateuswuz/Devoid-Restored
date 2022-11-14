@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "devoid idle mad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "devoid up mad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-252
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "devoid left mad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				-205
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "devoid right mad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				-311
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "devoid down mad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devoid-mad",
+	"position": [
+		-40,
+		20
+	],
+	"healthicon": "devoid-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		0,
+		131
+	],
+	"camera_position": [
+		50,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
