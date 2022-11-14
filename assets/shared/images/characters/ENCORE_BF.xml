@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Encore_BF.png" width="1710" height="1423">
+  <SubTexture name="idle instance 10003.png" x="0" y="0" width="250.5" height="197" rotated="true"  frameX="-151.5" frameY="-120" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="idle instance 10004.png" x="250.5" y="0" width="252" height="197" rotated="true"  frameX="-151.5" frameY="-118.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="idle instance 10002.png" x="502.5" y="0" width="244.5" height="200.5" rotated="true"  frameX="-150" frameY="-125.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="down instance 10002.png" x="747" y="0" width="220" height="203" rotated="true"  frameX="-145" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="down instance 10003.png" x="967" y="0" width="220" height="203" rotated="true"  frameX="-145" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss DOWN instance 10002.png" x="1187" y="0" width="221" height="204" rotated="true"  frameX="-148" frameY="-136.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="idle instance 10001.png" x="1408" y="0" width="239.5" height="206" rotated="true"  frameX="-147" frameY="-131" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="down instance 10001.png" x="0" y="197" width="214.5" height="206.5" rotated="true"  frameX="-145" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="idle instance 10000.png" x="214.5" y="197" width="241" height="208" rotated="true"  frameX="-146" frameY="-129.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="down instance 10000.png" x="455.5" y="200.5"  width="211.5" height="209.5" frameX="-144.5" frameY="-145.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss DOWN instance 10001.png" x="667" y="203" width="218.5" height="209.5" rotated="true"  frameX="-145.5" frameY="-139" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss DOWN instance 10000.png" x="885.5" y="203" width="215.5" height="214.5" rotated="true"  frameX="-143" frameY="-142.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="right instance 10001.png" x="1101" y="204" width="235" height="224" rotated="true"  frameX="-134.5" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="right instance 10002.png" x="1336" y="206" width="235.5" height="224" rotated="true"  frameX="-128.5" frameY="-131.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="right instance 10003.png" x="0" y="405" width="235.5" height="224" rotated="true"  frameX="-128.5" frameY="-131.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss RIGHT instance 10002.png" x="235.5" y="410" width="236.5" height="225" rotated="true"  frameX="-132.5" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss RIGHT instance 10000.png" x="472" y="412.5" width="236.5" height="226" rotated="true"  frameX="-137" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss RIGHT instance 10001.png" x="708.5" y="417.5" width="236.5" height="226" rotated="true"  frameX="-135" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="right instance 10000.png" x="945" y="428" width="234" height="226.5" rotated="true"  frameX="-137.5" frameY="-133" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss UP instance 10000.png" x="1179" y="430" width="267.5" height="239" rotated="true"  frameX="-130.5" frameY="-116.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss UP instance 10001.png" x="1446.5" y="430" width="263.5" height="243" rotated="true"  frameX="-128.5" frameY="-120.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="up instance 10000.png" x="0" y="635" width="268" height="245.5" rotated="true"  frameX="-127.5" frameY="-116" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="up instance 10002.png" x="268" y="638.5" width="258" height="245.5" rotated="true"  frameX="-126.5" frameY="-126" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="up instance 10003.png" x="526" y="643.5" width="258" height="245.5" rotated="true"  frameX="-126.5" frameY="-126" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="up instance 10001.png" x="784" y="654.5" width="263" height="246" rotated="true"  frameX="-127" frameY="-121" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss UP instance 10002.png" x="1047" y="669" width="259.5" height="247.5" rotated="true"  frameX="-126.5" frameY="-124.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10000.png" x="1306.5" y="673"  width="269.5" height="249" frameX="-115.5" frameY="-126" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10001.png" x="0" y="884"  width="276.5" height="249" frameX="-112" frameY="-125.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10002.png" x="276.5" y="889"  width="276" height="250" frameX="-119" frameY="-125" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10003.png" x="552.5" y="900.5"  width="272" height="250" frameX="-123" frameY="-125" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10004.png" x="824.5" y="916.5"  width="272" height="250" frameX="-123" frameY="-125" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10005.png" x="1096.5" y="922"  width="272" height="250" frameX="-123" frameY="-125" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10006.png" x="1368.5" y="922"  width="272" height="250" frameX="-123" frameY="-125" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Left instance 10007.png" x="0" y="1133"  width="272" height="250" frameX="-123" frameY="-125" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss LEFT instance 10000.png" x="272" y="1139"  width="278.5" height="251" frameX="-111" frameY="-124.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss LEFT instance 10001.png" x="550.5" y="1166.5"  width="277" height="251" frameX="-115" frameY="-124.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="miss LEFT instance 10002.png" x="827.5" y="1172"  width="274.5" height="251" frameX="-122.5" frameY="-124.5" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>
